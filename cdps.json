@@ -7,7 +7,7 @@
         "shan33_uwu"
     ],
     "dependencies": {
-        "cdps": ">=1.0.15"
+        "cdps": ">=1.0.18"
     },
     "resources": [
         "GPL-3.0"
