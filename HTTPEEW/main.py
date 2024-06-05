@@ -2,6 +2,7 @@ import requests
 from datetime import datetime
 from cdps.plugin.events import onServerStartEvent
 from cdps.plugin.manager import Listener, event_listener  
+from cdps.plugin.thread import new_thread
 
 url_eew = "https://api-1.exptech.dev/api/v1/eq/eew?type=cwa"
 url_report = "https://api-1.exptech.dev/api/v2/eq/report"
