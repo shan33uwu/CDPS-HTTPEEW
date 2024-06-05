@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "description": {
+        "zh_tw": "HTTP 接收地震速報"
+    },
+    "author": [
+        "shan33_uwu"
+    ],
+    "dependencies": {
+        "cdps": ">=1.0.18"
+    },
+    "resources": [
+        "GPL-3.0"
+    ],
+    "link": "https://github.com/OokokioO8456/CDPS-DiscordEEW"
+}
