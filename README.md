@@ -1,4 +1,4 @@
-# CDPS-DiscordEEW
+# CDPS-HTTPEEW
 ------
 - 接收由 ExpTech Studio 所提供的地震速報
 - CDPS Plugin
